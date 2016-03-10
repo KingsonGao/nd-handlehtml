@@ -1,10 +1,11 @@
 {
   "name": "nd-handlehtml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "handle HTML with encode and decode",
   "keywords": [],
   "homepage": "",
   "author": "KingsonGao <kingsongao1221@gmail.com>",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/KingsonGao/nd-handlehtml"

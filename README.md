@@ -7,7 +7,7 @@ handle HTML with encode and decode
 ## Install
 
 ```
-$ spm install nd-handlehtml --save
+$ npm install nd-handlehtml --save
 ```
 
 ## Usage
@@ -15,10 +15,10 @@ $ spm install nd-handlehtml --save
 ```js
 var handleHTML = require('nd-handlehtml');
 // use handleHTML
-// encode: 
+// encode:
 var encodeResult = handleHTML.encode(html);
 console.log(encodeResult);
-// decode: 
+// decode:
 var decodeResult = handleHTML.decode(encodeResult);
 console.log(decodeResult);
 ```
