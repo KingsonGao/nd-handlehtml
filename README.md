@@ -1,4 +1,4 @@
-# nd-handlehtml [![spm version](http://spm.crossjs.com/badge/nd-handlehtml)](http://spm.crossjs.com/package/nd-handlehtml)
+# nd-handlehtml [![npm](https://img.shields.io/npm/v/nd-handlehtml.svg)](https://npmjs.org/package/nd-handlehtml)
 
 ---
 
