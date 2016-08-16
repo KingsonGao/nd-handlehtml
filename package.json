@@ -1,6 +1,6 @@
 {
   "name": "nd-handlehtml",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "handle HTML with encode and decode",
   "keywords": [],
   "homepage": "",
@@ -14,14 +14,6 @@
     "url": ""
   },
   "licenses": "MIT",
-  "spm": {
-    "main": "index.js",
-    "dependencies": {
-    },
-    "devDependencies": {
-      "expect.js": "0.3.1"
-    }
-  },
   "devDependencies": {
     "spm": "3"
   },
